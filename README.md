@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <h1>
-  👋 Hi, I’m Goran Alexic.
-    Or just call me Peter.
+  👋 Hi, call me Peter.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
