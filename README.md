@@ -12,12 +12,6 @@ to date with new technologies and trends. This enterprising work attitude and re
 not easily but quickly
   
 </div>
-
-<div>
-<svg src = "https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg"></svg>
-</div>
-
-
 ## Skills
 - Languages
   
