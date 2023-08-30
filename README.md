@@ -13,6 +13,9 @@ not easily but quickly
   
 </div>
 
+<div>
+<svg src = "https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg"></svg>
+</div>
 
 
 ## Skills
