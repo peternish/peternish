@@ -3,8 +3,6 @@
   👋 Hi, call me Peter.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  
-## peter95613@gmail.com
 
 ## Overview
 Since I began my career as a web developer, I have always regarded myself as a permanent learner and I have always tired to keep me up
